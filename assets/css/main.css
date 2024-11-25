@@ -1289,3 +1289,7 @@ section,
   background-color: #222222; /* Color of the scrollbar thumb */
   border-radius: 10px; /* Rounded corners for the thumb */
 }
+
+.swiper-slide{
+  width: 343px;
+}
